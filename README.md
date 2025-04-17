@@ -1,6 +1,6 @@
 # Exercism Solutions
 
-![Exercism](assets/main.svg)
+![Exercism](assets/main.png)
 
 This repository contains solutions for various Exercism problems. The solutions are implemented using Kotlin.
 
